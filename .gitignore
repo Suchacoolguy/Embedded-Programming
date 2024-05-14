@@ -1,0 +1,23 @@
+# Ignore system-specific files
+.DS_Store
+
+# Ignore compiled binaries and object files
+*.bin
+*.o
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
+
+# Ignore generated Makefiles
+# Makefile
+makedep.mk
+
+# Ignore Visual Studio project files
+.vs/
+
+# Ignore Atmel Studio project files
+.atsuo
+
