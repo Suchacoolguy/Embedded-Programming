@@ -1,5 +1,6 @@
 
 ## 7. Automatic Sliding Door ##
+Supposed that the servo is a door.  
 https://github.com/Suchacoolguy/Embedded-Programming/assets/75939688/fc0a65ac-a295-49e4-8bae-1862168b295e
 
 ## 6. Compare Match Interrupt ##
