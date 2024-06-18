@@ -1,11 +1,11 @@
 
 ## 7. Automatic Sliding Door ##
-- Supposed that the servo is a door.  
+#### Supposed that the servo is a door. ####
 https://github.com/Suchacoolguy/Embedded-Programming/assets/75939688/fc0a65ac-a295-49e4-8bae-1862168b295e
 
 ## 6. Compare Match Interrupt ##
-- Since overflow occurs 32 times with 8-bit timer and takes about 0.5 seconds,
-- when using 16-bit timer TCNT1, i set the baseline value to 256 * 32, which is 0x2000 in hexadecimal.
+#### Since overflow occurs 32 times with 8-bit timer and takes about 0.5 seconds,
+#### when using 16-bit timer TCNT1, i set the baseline value to 256 * 32, which is 0x2000 in hexadecimal.
 https://github.com/Suchacoolguy/Embedded-Programming/assets/75939688/580a4e15-a0c1-41b8-ab8f-cb4e1d0fd324
 
 
